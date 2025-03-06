@@ -1,0 +1,15 @@
+{
+    "name": "api-alunos",
+    "version": "1.0.0",
+    "description": "API para CRUD de alunos",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "pg": "^8.13.3"
+    }
+}
